@@ -33,3 +33,19 @@ nav {
     background-color: rgba(33, 36, 36, 0.75);
     
 }
+
+main{
+    width: 40%;
+    padding: 10%;
+    margin: 10%;
+    float: right;
+    
+}
+
+.contact {
+    padding: 10px;
+    margin: 20px;
+    border:6px dashed; color: black;border-radius: 15px;
+    text-align: center;
+    color: #f6fafc;
+}
