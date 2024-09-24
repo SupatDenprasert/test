@@ -2,6 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    font-family:monospace;
 }
 
 header {
@@ -34,7 +35,7 @@ nav {
     
 }
 
-main{
+main {
     width: 40%;
     padding: 10%;
     margin: 10%;
@@ -43,9 +44,13 @@ main{
 }
 
 .contact {
-    padding: 10px;
+    padding: 20px;
     margin: 20px;
-    border:6px dashed; color: black;border-radius: 15px;
+    position: relative;
+    top: 50px;
+    border:6px solid; color: black;border-radius: 15px;
+    background-color: rgba(234, 227, 227, 0.712);
     text-align: center;
-    color: #f6fafc;
+    color: #f6fafc; 
+    font-size: 30px;
 }
