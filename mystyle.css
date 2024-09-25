@@ -71,3 +71,7 @@ a:link, a:visited {
     background-color: rgb(80, 88, 80);
     color: white;
   }
+
+  footer {
+    color: #f6fafc;
+  }
