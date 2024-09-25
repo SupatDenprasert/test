@@ -81,3 +81,31 @@ a:link, a:visited {
     color: #f6fafc;
     text-align: center;
   }
+
+  .introduction {
+    margin-top: 50px;
+    color: #f6fafc;
+    font-size: 20px;
+  }
+
+  .introductiontwo {
+    width: 50%;
+    padding: 5%;
+    margin: 5%;
+    float: left;
+    color: #f6fafc;
+    font-size: 20px;
+    position: relative;top: 1035px;
+    position: absolute;
+  }
+
+  .introductionthree {
+    width: 50%;
+    padding: 5%;
+    margin: 5%;
+    float: left;
+    color: #f6fafc;
+    font-size: 20px;
+    position: relative;top: 1300px;
+    position: absolute;
+  }
