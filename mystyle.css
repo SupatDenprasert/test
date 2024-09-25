@@ -5,6 +5,11 @@
     font-family:monospace;
 }
 
+.supat {
+    text-shadow: 4px 4px 6px #c8f10dc9;
+    font-size: 20px;
+}
+
 header {
     width: 100%;
     border: 10px solid color(srgb red green blue) ;
@@ -74,4 +79,5 @@ a:link, a:visited {
 
   footer {
     color: #f6fafc;
+    text-align: center;
   }
