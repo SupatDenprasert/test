@@ -117,3 +117,20 @@ a:link, a:visited {
     float: left;
   }
 
+.journey  {
+  background-color: rgba(0, 0, 0, 0.716);
+  margin: 70px;
+  color: #f6fafc;
+}
+
+.journeytable th {
+  border: 2px dashed;
+  padding: 40px;
+  font-size: 25px;
+}
+
+.journeytable td {
+  border: 1px solid;
+  padding: 10px;
+  font-size: 20px;
+}
